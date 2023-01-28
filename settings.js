@@ -19,7 +19,7 @@ global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
 global.owner = ['263776154806'] //ur owner number
 global.ownername = "Eugene Dadirai" //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
-global.socialm = "Dark Nero" //ur github or insta name
+global.socialm = "e_crabs" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
